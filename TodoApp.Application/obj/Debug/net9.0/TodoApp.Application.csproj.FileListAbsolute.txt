@@ -1,0 +1,15 @@
+/Users/jorgefragoso/TodoApp/TodoApp.Application/bin/Debug/net9.0/TodoApp.Application.deps.json
+/Users/jorgefragoso/TodoApp/TodoApp.Application/bin/Debug/net9.0/TodoApp.Application.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Application/bin/Debug/net9.0/TodoApp.Application.pdb
+/Users/jorgefragoso/TodoApp/TodoApp.Application/bin/Debug/net9.0/TodoApp.Domain.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Application/bin/Debug/net9.0/TodoApp.Domain.pdb
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.csproj.AssemblyReference.cache
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.AssemblyInfoInputs.cache
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.AssemblyInfo.cs
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.csproj.CoreCompileInputs.cache
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp..05D78BBE.Up2Date
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/refint/TodoApp.Application.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/TodoApp.Application.pdb
+/Users/jorgefragoso/TodoApp/TodoApp.Application/obj/Debug/net9.0/ref/TodoApp.Application.dll

@@ -1,0 +1,11 @@
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/bin/Debug/net9.0/TodoApp.Domain.deps.json
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/bin/Debug/net9.0/TodoApp.Domain.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/bin/Debug/net9.0/TodoApp.Domain.pdb
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.AssemblyInfoInputs.cache
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.AssemblyInfo.cs
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.csproj.CoreCompileInputs.cache
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/refint/TodoApp.Domain.dll
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/TodoApp.Domain.pdb
+/Users/jorgefragoso/TodoApp/TodoApp.Domain/obj/Debug/net9.0/ref/TodoApp.Domain.dll
